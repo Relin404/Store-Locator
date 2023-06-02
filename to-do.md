@@ -1,0 +1,18 @@
+- [ ] App
+  - [ ] Public
+  - [x] CORS
+  - [x] Morgan
+  - [x] Environment Variables
+- [ ] Server
+  - [x] HTTPS
+    - [x] Certificates
+  - [x] DB
+- [ ] Models
+  - [ ] Store Model
+    - [x] Schema
+    - [ ] Joi Validation
+- [ ] Controllers
+  - [x] Store Controller
+- [ ] Routes
+  - [x] Store Route
+- [ ] Readme.md
